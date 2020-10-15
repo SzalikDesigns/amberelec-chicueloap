@@ -4,7 +4,7 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>CUSTOM COLLECTIONS</text>
+   <text>CUSTOM</text>
   </text>
   <text name="longdescription" extra="true">
    <text>Access and quickly play games you have added to your custom collections</text>

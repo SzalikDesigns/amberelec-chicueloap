@@ -4,7 +4,7 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>1984  ·  16-BIT COMPUTER</text>
+   <text>1984</text>
   </text>
   <text name="longdescription" extra="true">
    <text>MSX2 is a standardized home computer architecture, conceived as an attempt to create unified standards among various hardware makers</text>

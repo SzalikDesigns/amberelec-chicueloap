@@ -4,7 +4,7 @@
 
 <view name="system, basic, detailed, video, grid">
   <text name="shortdescription" extra="true">
-   <text>LASERDISCS CONSOLE</text>
+   <text>LASERDISCS</text>
   </text>
   <text name="longdescription" extra="true">
    <text>Converged device and home video game console capable of playing Laserdiscs, Compact Discs, console games, and LD-G karaoke discs</text>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1998</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The NAOMI (New Arcade Operation Machine Idea) is an arcade system released by Sega in 1998.</text>
+  </text>
+ </view>
+</theme>
