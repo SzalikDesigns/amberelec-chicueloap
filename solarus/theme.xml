@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2006</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Solarus is a free and open-source 2D game engine written in C++, that can run games scripted in Lua</text>
+  </text>
+ </view>
+</theme>
