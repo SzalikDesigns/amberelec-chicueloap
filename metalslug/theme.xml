@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>GAME SERIES</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Metal Slug is a series of run and gun video games originally created by Nazca Corporation</text>
+  </text>
+ </view>
+</theme>

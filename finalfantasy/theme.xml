@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>GAME SERIES</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Final Fantasy is a Japanese anthology science fantasy media franchise created by Hironobu Sakaguchi</text>
+  </text>
+ </view>
+</theme>
