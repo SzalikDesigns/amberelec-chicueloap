@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>GAME GENRE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>A visual novel is an interactive fiction video game genre, featuring text-based story with narrative style of literature and interactivity</text>
+  </text>
+ </view>
+</theme>
