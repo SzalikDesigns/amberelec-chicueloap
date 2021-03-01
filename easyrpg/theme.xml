@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2007</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>EasyRPG is a project to create a free Role Playing Game creation tool.</text>
+  </text>
+ </view>
+</theme>
