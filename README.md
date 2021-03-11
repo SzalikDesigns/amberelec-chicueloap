@@ -1,13 +1,13 @@
 ## Chicuelo EmulationStation Theme
 
+**Fork for 351ELEC by Szalik** 
+
 **Designed in Argentina by Chicuelo:** \
 http://www.chicuelo.com.ar \
 ![http://www.chicuelo.com.ar](https://avatars0.githubusercontent.com/u/35472357?s=100&v=4 "http://www.chicuelo.com.ar")
 
 **Official RetroPie forum topic:** \
 https://retropie.org.uk/forum/topic/15830/
-
-**Fork for 351ELEC by Szalik** 
 
 ---
 
@@ -20,6 +20,18 @@ https://retropie.org.uk/forum/topic/15830/
 - Clean not used by 351ELEC systems/controllers
 
 **Thanks Jetup13 for his edits**
+
+---
+
+### Features
+
+* Unique custom artwork for every system
+* Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
+* Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
+* Support for various 'alternative' systems (such as TG-16, Famicom, etc)
+* Power menu 'system' included (for users that require one)
+* Video capable
+* Support for screenshots/boxart and/or video. Marquees are not utilised in this theme.
 
 ---
 
@@ -52,18 +64,6 @@ Ricky Romero - https://dribbble.com/RickyRomero \
 David McLeod - https://dribbble.com/Mucx \
 Craig Erskine - https://dribbble.com/craigerskine \
 Memory Noise - https://dribbble.com/memorynoise
-
----
-
-### Features
-
-* Unique custom artwork for every system
-* Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
-* Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
-* Support for various 'alternative' systems (such as TG-16, Famicom, etc)
-* Power menu 'system' included (for users that require one)
-* Video capable
-* Support for screenshots/boxart and/or video. Marquees are not utilised in this theme.
 
 ---
 
