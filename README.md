@@ -2,8 +2,8 @@
 
 **Fork for 351ELEC by Szalik** 
 
-**Designed in Argentina by Chicuelo:** \
-http://www.chicuelo.com.ar \
+**Designed in Argentina by Chicuelo:** 
+http://www.chicuelo.com.ar 
 
 ---
 
