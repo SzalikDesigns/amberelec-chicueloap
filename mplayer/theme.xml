@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>Videos</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>This is a media player for video and audio files</text>
+  </text>
+ </view>
+</theme>

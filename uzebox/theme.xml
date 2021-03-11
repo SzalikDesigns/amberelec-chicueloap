@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2008</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Uzebox is a fully open-source, DIY 8-bit game console.</text>
+  </text>
+ </view>
+</theme>

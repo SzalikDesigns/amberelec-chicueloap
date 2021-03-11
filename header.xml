@@ -79,24 +79,12 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	<fontPath>./_assets/Roboto-Medium.ttf</fontPath>
 	<alignment>center</alignment>
 	<forceUppercase>0</forceUppercase>
-	<fontSize>0.02</fontSize>
+	<fontSize>0.022</fontSize>
 	<color>818181</color>
 	<origin>0.5 0.5</origin>
 	<pos>0.232 0.50</pos>
 	<size>0.20 0.1</size>
  </text>
- 
-<!--
-
- <image name="indicator" extra="true">
-	<path>./_assets/indicators/${system.theme}.png</path>
-	<tile>false</tile>
-	<origin>0.5 0.5</origin>
-	<pos>0.027 0.5</pos>
-	<size>0.006 0.60</size>
-  </image>
-
--->
 
  <image name="character" extra="true">
 	<path>./_assets/characters/${system.theme}.jpg</path>
@@ -104,15 +92,15 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	<tile>false</tile>
 	<origin>0.5 0.5</origin>
 	<pos>0.678 0.5</pos>
-	<size>0.535 0.85</size>
+	<size>0.60 0.85</size>
   </image>
  
  <image name="controller" extra="true">
 	<path>./_assets/controllers/${system.theme}.png</path>
 	<tile>false</tile>
 	<origin>1 1</origin>
-	<pos>0.9785 0.975</pos>
-	<size>0.275 0.4</size>
+	<pos>0.9785 0.965</pos>
+	<size>0.275 0.35</size>
   </image>
 
  <helpsystem name="help">
@@ -158,11 +146,11 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
  <text name="longdescription" extra="true">
 	<fontPath>./_assets/Roboto-Medium.ttf</fontPath>
 	<forceUppercase>0</forceUppercase>
-	<fontSize>0.02</fontSize>
+	<fontSize>0.022</fontSize>
 	<color>818181</color>
 	<origin>0.5 0.5</origin>
 	<pos>0.789 0.810</pos>
-	<size>0.25 0.2</size>
+	<size>0.30 0.2</size>
  </text>
  
 <textlist name="gamelist">
