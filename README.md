@@ -4,10 +4,6 @@
 
 **Designed in Argentina by Chicuelo:** \
 http://www.chicuelo.com.ar \
-![http://www.chicuelo.com.ar](https://avatars0.githubusercontent.com/u/35472357?s=100&v=4 "http://www.chicuelo.com.ar")
-
-**Official RetroPie forum topic:** \
-https://retropie.org.uk/forum/topic/15830/
 
 ---
 
