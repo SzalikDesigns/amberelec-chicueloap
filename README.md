@@ -7,16 +7,19 @@ http://www.chicuelo.com.ar \
 **Official RetroPie forum topic:** \
 https://retropie.org.uk/forum/topic/15830/
 
-**Fork for smaller screeen edited by Jetup13** 
+**Fork for 351ELEC by Szalik** 
 
 ---
 
-### Jetup13's fork changes
+### Szalik changes
 
-![https://i.imgur.com/nFenDLW.png](https://i.imgur.com/nFenDLW.png) ![https://i.imgur.com/CaaqQhE.png](https://i.imgur.com/CaaqQhE.png)
-- Fit on smaller screens such as RG351p/m, RGB10, OGA, RK2020 etc
-- More systems
-- Reduced file size
+- Change the sizes of text and images to have perfect fit for 351ELEC
+- Added missing systems
+- Rework existing ones
+- Added missing controlers
+- Clean not used by 351ELEC systems/controllers
+
+**Thanks Jetup13 for his edits**
 
 ---
 
@@ -61,5 +64,10 @@ Memory Noise - https://dribbble.com/memorynoise
 * Power menu 'system' included (for users that require one)
 * Video capable
 * Support for screenshots/boxart and/or video. Marquees are not utilised in this theme.
+
+---
+
+### LOGO NOTICE
+The used logos and trademarks are copyright of their respective owners.
 
 ---
