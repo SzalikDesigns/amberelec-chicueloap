@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1992</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Handheld video game console that has a 2.37-inch screen that delivers a resolution of 160x160 pixels</text>
+  </text>
+ </view>
+</theme>
