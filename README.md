@@ -47,9 +47,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 **ShareAlike** - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. \
 **NonCommercial** - You may ***not*** use the material for commercial purposes.
 
-### Please note:
-This is a theme created for use in RetroPie via the EmulationStation frontend. By downloading and installing this theme it will be assumed that you own and possess the rights for all ROMs you intend to use. This is a free theme so you can install it and share it with others - **but you are *not* allowed to sell or generate any kind of monetary profit from this theme. Please see the 'License' section above for more details.**
-
 ---
 
 ### Thanks and Credits
